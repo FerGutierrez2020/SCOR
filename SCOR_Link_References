@@ -12,3 +12,74 @@ CCNP Security
 https://www.cisco.com/site/us/en/learn/training-certifications/certifications/security/ccnp-security/index.html
 
 ------------------------------------------------------------------------
+Session 2: Frameworks and Standards
+
+Sesion 2:
+https://www.nist.gov/cyberframework.
+:
+Federal Information Processing Standards (FIPS)
+https://www.nist.gov/federal-information-processing-standards-fips
+
+Special Publication (SP) 800 series:
+https://csrc.nist.gov/publications/sp800.
+
+Special Publication (SP) 1800 series
+https://csrc.nist.gov/publications/sp1800.
+
+NIST Internal or Interagency Reports (NISTIR)
+https://www.nist.gov/pml/owm/nist-interagency-or-internal-reports-nistir
+
+ITL bulletins:
+https://csrc.nist.rip/publications/PubsITLSB.html
+
+ISO 27001
+https://www.iso.org/standard/27001
+
+ISO 27002:
+https://www.iso.org/standard/75652.html
+
+ISO 27003
+https://www.iso.org/standard/63417.html
+
+ISO 27004
+https://www.iso.org/standard/64120.html
+
+ISO 27005
+https://www.iso.org/es/contents/data/standard/08/05/80585.html
+
+ISO 27006
+https://www.iso.org/es/contents/data/standard/08/29/82908.html
+
+Security Advisories, Responses and Notices
+https://www.cisco.com/c/en/us/support/security/firepower-ngfw/products-security-advisories-list.html
+
+Vulnerability Metrics (NIST)
+https://nvd.nist.gov/vuln-metrics/cvss
+
+NIST CVSS calculator:
+https://nvd.nist.gov/vuln-metrics/cvss/v3-calculator
+
+CVE 
+http://cve.mitre.org.
+
+Exploit Database
+https://www.exploit-db.com. - There is a command-line tool called searchsploit that allows you to download a copy of the Exploit Database 
+
+
+NIST Special Publication 800-37, “Guide for Applying the Risk Management Framework to Federal Information Systems,” transforms the traditional Certification and Accreditation (C&A) process into the six-step Risk Management Framework (RMF). 
+
+https://attack.mitre.org/software/S0603/.
+
+MITRE ATT&CK framework at https://attack.mitre.org/groups.
+
+Cisco Secure at https://www.cisco.com/c/en/us/products/security/secure-names.html.
+
+Cisco Talos File Reputation Lookup site ( https://www.talosintelligence.com/reputation) and VirusTotal ( https://virustotal.com) allow you to upload files to verify if they may be known malware
+
+The following site provides links to millions of real-world passwords: http://wordlists.h4cker.org.
+
+The following site lists the cryptographic algorithms that should be avoided and the ones that are recommended, as well as several other recommendations: https://www.cisco.com/c/en/us/about/security-center/next-generation-cryptography.html.
+
+http://www.defaultpassword.com/
+
+ https://www.shodan.io
