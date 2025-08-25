@@ -11,12 +11,13 @@ https://learningnetwork.cisco.com/s/cisco-certification-roadmaps
 CCNP Security
 https://www.cisco.com/site/us/en/learn/training-certifications/certifications/security/ccnp-security/index.html
 
-------------------------------------------------------------------------
+-----------------------------------
 Session 2: Frameworks and Standards
+----------------------------------
 
-Sesion 2:
+NIST Framework:
 https://www.nist.gov/cyberframework.
-:
+
 Federal Information Processing Standards (FIPS)
 https://www.nist.gov/federal-information-processing-standards-fips
 
@@ -62,9 +63,14 @@ https://nvd.nist.gov/vuln-metrics/cvss/v3-calculator
 CVE 
 http://cve.mitre.org.
 
+Threat Intelligence
+https://github.com/The-Art-of-Hacking/h4cker
+
 Exploit Database
 https://www.exploit-db.com. - There is a command-line tool called searchsploit that allows you to download a copy of the Exploit Database 
 
+TryHackMe:
+https://tryhackme.com/dashboard
 
 NIST Special Publication 800-37, “Guide for Applying the Risk Management Framework to Federal Information Systems,” transforms the traditional Certification and Accreditation (C&A) process into the six-step Risk Management Framework (RMF). 
 
@@ -72,7 +78,14 @@ https://attack.mitre.org/software/S0603/.
 
 MITRE ATT&CK framework at https://attack.mitre.org/groups.
 
-Cisco Secure at https://www.cisco.com/c/en/us/products/security/secure-names.html.
+OWASP top 10 vulnerabilities:
+https://owasp.org/www-project-top-ten/
+
+OWASP top 10 LLM Vulnerabilities:
+https://owasp.org/www-project-top-10-for-large-language-model-applications/assets/PDF/OWASP-Top-10-for-LLMs-2023-slides-v1_0.pdf
+
+Cisco Secure
+https://www.cisco.com/c/en/us/products/security/secure-names.html.
 
 Cisco Talos File Reputation Lookup site ( https://www.talosintelligence.com/reputation) and VirusTotal ( https://virustotal.com) allow you to upload files to verify if they may be known malware
 
@@ -82,4 +95,4 @@ The following site lists the cryptographic algorithms that should be avoided and
 
 http://www.defaultpassword.com/
 
- https://www.shodan.io
+https://www.shodan.io
