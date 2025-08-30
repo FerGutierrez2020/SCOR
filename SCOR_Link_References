@@ -86,7 +86,7 @@ https://owasp.org/www-project-top-ten/
 OWASP top 10 LLM Vulnerabilities:
 https://owasp.org/www-project-top-10-for-large-language-model-applications/assets/PDF/OWASP-Top-10-for-LLMs-2023-slides-v1_0.pdf
 
-Cisco Secure
+Cisco Secure:
 https://www.cisco.com/c/en/us/products/security/secure-names.html.
 
 Cisco Talos File Reputation Lookup site ( https://www.talosintelligence.com/reputation) and VirusTotal ( https://virustotal.com) allow you to upload files to verify if they may be known malware
@@ -102,9 +102,13 @@ https://www.shodan.io
 --------------------------
 Session 3: Security Threats & SDN
 -------------------------
-NIST Special Publication 800-61
+NIST Special Publication 800-61:
 https://csrc.nist.gov/pubs/sp/800/61/r2/final
 
-Cisco Blog example
+Cisco Blog example:
 https://blogs.cisco.com/security/psirt-services.
+
+Next-Generation Encryption Protocols:
+https://sec.cloudapps.cisco.com/security/center/resources/next_generation_cryptography
+
 
