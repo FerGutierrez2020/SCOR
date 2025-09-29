@@ -117,5 +117,51 @@ https://tools.ietf.org/html/rfc8446
 NIST SP 800-145
 https://csrc.nist.gov/pubs/sp/800/145/final
 
+-----------------------------------
+Session 4: Frameworks and Standards
+----------------------------------
+
+
+-----------------------------------
+Session 5: Network Visibility & Segmentation
+----------------------------------
+FPS Tool
+https://apps.cisco.com/coreui/public/app/lancope/fpsestimator.jsp#/add-items
+
+
+
+
+-----------------------------------
+Session 6: Layer 2 Security & Ipv6
+----------------------------------
+Scapy
+https://github.com/secdev/scapy
+
+DHCP Snooping Configuation guide
+https://www.cisco.com/c/en/us/support/docs/ip/dynamic-host-configuration-protocol-dhcp-dhcpv6/217055-operate-and-troubleshoot-dhcp-snooping.html
+
+Port Security
+https://www.cisco.com/c/en/us/td/docs/switches/lan/catalyst6500/ios/15-4SY/config_guide/sup6T/15_3_sy_swcg_6T/port_security.pdf
+
+Harden IOS
+https://www.cisco.com/c/en/us/support/docs/ip/access-lists/13608-21.html
+
+Sandbox CML
+https://developer.cisco.com/docs/modeling-labs/sandbox/#cisco-modeling-labs-sandbox
+
+IPv6 FHS
+https://www.cisco.com/c/en/us/products/ios-nx-os-software/ipv6-first-hop-security-fhs/index.html
+
+Ipv6 ICMP Rate Limit
+https://www.cisco.com/c/en/us/td/docs/routers/asr920/configuration/guide/ip/ip6b-xe-3s-asr920-book/ip6-icmp-rate-lmt-xe.pdf
+
+EIGRP Authentication example:
+https://www.cisco.com/c/en/us/support/docs/ip/enhanced-interior-gateway-routing-protocol-eigrp/82110-eigrp-authentication.html
+
+OSPF Authentication
+https://www.cisco.com/c/en/us/support/docs/ip/open-shortest-path-first-ospf/13697-25.html
+
+
+
 
 
