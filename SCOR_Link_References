@@ -118,17 +118,28 @@ NIST SP 800-145
 https://csrc.nist.gov/pubs/sp/800/145/final
 
 -----------------------------------
-Session 4: Frameworks and Standards
+Session 4: DNAC,API and ISE
 ----------------------------------
+Devnet Sandbox
+https://developer.cisco.com/learning/labs/devnet-sandbox/welcome-to-the-sandbox-learning-lab/
 
+Catalyst Center Sandbox
+https://devnetsandbox.cisco.com/DevNet/catalog/Catalyst-Center-Always-On_catalyst-center-always-on
+
+ISE Sandbox
+https://devnetsandbox.cisco.com/DevNet/catalog/ise-sandbox_identity-services-engine
 
 -----------------------------------
 Session 5: Network Visibility & Segmentation
 ----------------------------------
+Cisco Telemetry Broker
+https://www.cisco.com/c/en/us/products/collateral/security/telemetry-broker/ctb-datasheet.html
+
+Secure Network Analytics Cisco Live Presentation
+https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSEC-2248.pdf
+
 FPS Tool
 https://apps.cisco.com/coreui/public/app/lancope/fpsestimator.jsp#/add-items
-
-
 
 
 -----------------------------------
