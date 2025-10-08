@@ -172,6 +172,39 @@ https://www.cisco.com/c/en/us/support/docs/ip/enhanced-interior-gateway-routing-
 OSPF Authentication
 https://www.cisco.com/c/en/us/support/docs/ip/open-shortest-path-first-ospf/13697-25.html
 
+-----------------------------------
+Session 7: Firewalls & ZBFW 
+----------------------------------
+
+https://www.cisco.com/c/en/us/products/security/firewalls/index.html
+
+Firewall Migration tool
+https://www.cisco.com/c/en/us/products/security/secure-firewall-migration-tool/index.html
+
+Firewall Models 
+https://www.cisco.com/site/us/en/products/security/firewalls/index.html.
+
+Cisco ASA to Threat Defense Feature Mapping guide.
+https://www.cisco.com/c/en/us/td/docs/security/secure-firewall/migration/asa-to-threat-defense-feature-mapping/asa-to-threat-defense-feature-mapping.html.
+
+Configuration of the Cisco Secure Firewall Threat Defense Virtual on Cisco HyperFlex 
+https://www.cisco.com/c/en/us/td/docs/security/firepower/quick_start/consolidated_ftdv_gsg/ftdv-gsg/m-ftdv-hx-gsg.html. 
+
+Cisco Secure Firewall Threat Defense Virtual integration with Nutanix AHV
+https://www.cisco.com/c/en/us/td/docs/security/firepower/quick_start/nutanix/ftdv/ftdv-nutanix-gsg.html.
+
+Secure Cloud Control (CDO)
+https://eu.manage.security.cisco.com/provision?regionConfirmed=true
+
+CDO Demos
+https://www.cisco.com/site/in/en/products/security/defense-orchestrator/demos.html
+
+FMC Demo
+https://www.cisco.com/site/us/en/products/security/firewalls/firewall-management-center/demos.html
+
+ZBFW Configuration Example
+https://community.cisco.com/t5/security-knowledge-base/ios-zone-based-firewall-step-by-step-basic-configuration/ta-p/3142774
+
 
 
 
