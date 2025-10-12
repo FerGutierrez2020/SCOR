@@ -215,9 +215,14 @@ https://www.cisco.com/c/en/us/products/collateral/security/amp-appliances/datash
 Secure Malware Analytics Demo
 https://www.cisco.com/site/us/en/products/security/security-analytics/malware-analytics/index.html
 
+Site-to-Site IKEv2 Tunnel between ASA and Router
+https://www.cisco.com/c/en/us/support/docs/security-vpn/ipsec-negotiation-ike-protocols/117337-config-asa-router-00.html
 
-Remote Access VPN with Firepower and Duo
-https://duo.com/docs/cisco-firepower
+ LAN-to-LAN IPsec Tunnel Between Two Routers:
+https://www.cisco.com/c/en/us/support/docs/routers/1700-series-modular-access-routers/71462-rtr-l2l-ipsec-split.html
+
+Site to Site IKEv2 VPN Tunnel Between Two ASAs
+https://www.cisco.com/c/en/us/support/docs/security/asa-5500-x-series-next-generation-firewalls/118652-configure-asa-00.html
 
 DMVPN Configuration and debug
 https://www.cisco.com/c/en/us/support/docs/security/dynamic-multipoint-vpn-dmvpn/111976-dmvpn-troubleshoot-00.html#verifygre
@@ -226,6 +231,16 @@ ASA Clientless SSLVPN
 https://www.cisco.com/c/en/us/support/docs/security-vpn/webvpn-ssl-vpn/119417-config-asa-00.html
 
 https://www.cisco.com/c/en/us/td/docs/security/asa/asa97/configuration/vpn/asa-97-vpn-config/webvpn-overview.pdf
+
+Remote Access VPN with Firepower and Duo
+https://duo.com/docs/cisco-firepower
+
+Remote Access VPN on FTD Managed by FDM
+https://www.cisco.com/c/en/us/support/docs/security/anyconnect-secure-mobility-client/215532-configure-remote-access-vpn-on-ftd-manag.html
+
+Catalyst SD-WAN Remote Access
+https://www.cisco.com/c/en/us/td/docs/routers/sdwan/configuration/sdwan-ra/cisco-sd-wan-remote-access/m-sdwan-remote-access1.html
+
 
 
 
