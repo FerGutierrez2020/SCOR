@@ -205,6 +205,31 @@ https://www.cisco.com/site/us/en/products/security/firewalls/firewall-management
 ZBFW Configuration Example
 https://community.cisco.com/t5/security-knowledge-base/ios-zone-based-firewall-step-by-step-basic-configuration/ta-p/3142774
 
+-----------------------------------------
+Session 8: Secure Malware Defense & VPNs 
+-----------------------------------------
+
+Malware Defense with Cisco Secure Firewall
+https://www.cisco.com/c/en/us/products/collateral/security/amp-appliances/datasheet-c78-733182.html
+
+Secure Malware Analytics Demo
+https://www.cisco.com/site/us/en/products/security/security-analytics/malware-analytics/index.html
+
+
+Remote Access VPN with Firepower and Duo
+https://duo.com/docs/cisco-firepower
+
+DMVPN Configuration and debug
+https://www.cisco.com/c/en/us/support/docs/security/dynamic-multipoint-vpn-dmvpn/111976-dmvpn-troubleshoot-00.html#verifygre
+
+ASA Clientless SSLVPN
+https://www.cisco.com/c/en/us/support/docs/security-vpn/webvpn-ssl-vpn/119417-config-asa-00.html
+
+https://www.cisco.com/c/en/us/td/docs/security/asa/asa97/configuration/vpn/asa-97-vpn-config/webvpn-overview.pdf
+
+
+
+
 
 
 
